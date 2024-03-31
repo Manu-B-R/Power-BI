@@ -1,4 +1,5 @@
-<a><b> This project clearly visualizes about Pizza sales according to customer needs based on different KPIs </b><\a>
+<a><b> This project clearly visualizes about Pizza sales according to customer needs based on different KPIs. </b></a>
+
 <b>Data Retrieval with SQL</b>: The project likely shows how to query a database using SQL to extract relevant data about pizza sales. This could involve selecting specific columns, filtering rows based on certain criteria (using WHERE clauses), and aggregating data (using GROUP BY and aggregate functions like SUM or COUNT).
 
 <b>Data Analysis</b>: Once the data is retrieved, the project demonstrates how to analyze it to gain insights into pizza sales trends. This could include identifying top-selling pizza varieties, analyzing sales trends over time, comparing sales across different regions or stores, and identifying patterns or correlations in the data.
