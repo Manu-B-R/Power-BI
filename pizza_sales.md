@@ -7,5 +7,5 @@
 <b>Dashboard Design</b>: The project also cover best practices for designing effective dashboards in Power BI. This could include tips for choosing appropriate visualizations, arranging visual elements for clarity and readability, adding interactivity to allow users to drill down into the data, and incorporating branding or styling to make the dashboard visually appealing.
 
 <i>Overall, the project provides a practical demonstration of how to use SQL and Power BI to analyze and visualize pizza sales data, with the goal of uncovering insights that can inform business decisions.</i>
-
+<i>Note: Please click on below link for Dashboard</i>
 [Pizza Sales Report.pdf](https://github.com/Manu-B-R/Power-BI/files/14814542/Pizza.Sales.Report.pdf)
