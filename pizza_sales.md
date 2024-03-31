@@ -8,3 +8,4 @@
 
 <i>Overall, the project provides a practical demonstration of how to use SQL and Power BI to analyze and visualize pizza sales data, with the goal of uncovering insights that can inform business decisions.</i>
 
+[Pizza Sales Report.pdf](https://github.com/Manu-B-R/Power-BI/files/14814542/Pizza.Sales.Report.pdf)
